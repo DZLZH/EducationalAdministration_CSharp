@@ -8,7 +8,7 @@ EducationalAdministration_CSharp
 
 这是我在上大学的时候写的第二个项目，而且还是个半成品。(￣▽￣)!!!
 
-####开发环境
+####开发工具
 
 Visual Studio 2012 + SQL Server 2012
 
